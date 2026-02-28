@@ -1,3 +1,13 @@
+# NOTICE OF FICTIONAL AND EXPERIMENTAL CHARACTER
+
+# This document is a work of speculative fiction produced solely for the purpose of researching and experimenting with the behaviour of automated artificial intelligence agents. It does not constitute, and shall not be construed as, an official instrument, directive, regulation, or publication of the Government of Canada or any of its institutions, departments, or agencies. The author is not affiliated with, nor acting on behalf of, any government, political party, or regulatory authority.
+
+# No experiments or deployments of automated agents described or contemplated herein have been conducted at the time of publication.
+
+# The author assumes no liability, express or implied, for any consequences arising from use of this document for any purpose other than that stated above. Any reliance placed on this document for legal, regulatory, or operational purposes is undertaken entirely at the reader's own risk.
+
+---
+
 # Artificial Intelligence Transparency and Soul Disclosure Regulations, 2026
 
 **Government of Canada**
